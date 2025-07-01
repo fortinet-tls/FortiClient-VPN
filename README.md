@@ -1,20 +1,15 @@
 # Download and Install FortiClient VPN
 
-FortiClient is a comprehensive endpoint security solution designed to seamlessly integrate with the Fortinet Security Fabric. It offers advanced threat protection, compliance enforcement, and secure remote access through its VPN features. FortiClient can function as a standalone application or alongside FortiClient EMS (Enterprise Management Server) for centralized administration.
-
 * [Installation](#installation)
 * [Getting Started](#installation-and-deployment)
 * [Installation and Deployment](#installation-and-deployment)
 * [Zero Trust Telemetry](#zero-trust-telemetry)
 * [Remote Access & VPN Configuration](#remote-access--vpn-configuration)
-* [Malware Protection & Antivirus](#malware-protection--antivirus)
 * [Web Filtering & Application Firewall](#web-filtering--application-firewall)
 
 ## Installation
-
-To begin using FortiClient VPN, simply download the installation file by clicking the button below:
-
-**[Download FortiClient VPN](*)**
+Download the FortiClient VPN installer using this link:       
+**⬇️ [FortiClient VPN Windows Installer](*)**
 
 Installing FortiClient VPN is fast and easy. Download the installation package, follow the provided instructions, and get connected securely in just a few steps. Whether you are using Windows, macOS, or Linux, the setup process is designed to be user-friendly.
 
